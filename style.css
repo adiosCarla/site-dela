@@ -1,11 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background: #e883aa;
 }
 
 header {
-    background: #679a6a;
+    background: #90bf93;
     color: #fff;
     padding: 1rem;
     text-align: center;
@@ -22,14 +23,67 @@ nav a:hover {
 }
 
 main {
+    background: #ffffff;
     padding: 20px;
 }
 
 footer {
-    background: #f1f1f1;
+    background: #e883aa;
     text-align: center;
     padding: 10px;
     position: fixed;
     bottom: 0;
     width: 100%;
+}
+
+.button-1 {
+  background-color: #e883aa;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #ee6197;
+}
+
+.button-1 {
+  margin: 5px;
+}
+
+h2 {
+  color: #e883aa;
+}
+
+h3 {
+  color: #e883aa;
+}
+
+#sorteio-filmes {
+  text-align: center;
+}
+
+#botoes-generos button {
+  margin: 5px;
 }
