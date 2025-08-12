@@ -33,7 +33,7 @@ function sortearFilme(genero) {
   );
 
   if (filmesDisponiveis.length === 0) {
-    alert("não há filmes disponíveis nesse gênero ou você já assistiu todos.");
+    alert("não há filmes disponíveis nesse gênero ou já assistimos todos.");
     return;
   }
 
