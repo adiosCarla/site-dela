@@ -1,0 +1,848 @@
+[
+  {
+    "id": 1,
+    "nome": "the archer ★★★½",
+    "ano": 2017,
+    "genero": "ação"
+  },
+  {
+    "id": 2,
+    "nome": "d.e.b.s. ★★★★★",
+    "ano": 2004,
+    "genero": "ação"
+  },
+  {
+    "id": 3,
+    "nome": "revolutionary girl utena: the movie ★★★½",
+    "ano": 1999,
+    "genero": "animação"
+  },
+  {
+    "id": 4,
+    "nome": "kase-san and morning glories ★★★½",
+    "ano": 2018,
+    "genero": "animação"
+  },
+  {
+    "id": 5,
+    "nome": "the mitchells vs. the machines ★★★★",
+    "ano": 2021,
+    "genero": "animação"
+  },
+  {
+    "id": 7,
+    "nome": "kajillionaire ★★★★",
+    "ano": 2020,
+    "genero": "comédia"
+  },
+  {
+    "id": 8,
+    "nome": "happiest season ★★★★",
+    "ano": 2020,
+    "genero": "comédia"
+  },
+  {
+    "id": 9,
+    "nome": "it's in the water ★★★",
+    "ano": 1997,
+    "genero": "comédia"
+  },
+  {
+    "id": 10,
+    "nome": "every time a bell rings ★★",
+    "ano": 2021,
+    "genero": "comédia"
+  },
+  {
+    "id": 11,
+    "nome": "boss in love ★★½",
+    "ano": 2018,
+    "genero": "comédia"
+  },
+  {
+    "id": 12,
+    "nome": "mom + mom ★★★½",
+    "ano": 2018,
+    "genero": "comédia"
+  },
+  {
+    "id": 13,
+    "nome": "dating amber ★★★★",
+    "ano": 2020,
+    "genero": "comédia"
+  },
+  {
+    "id": 14,
+    "nome": "holy camp! ★★★★",
+    "ano": 2017,
+    "genero": "comédia"
+  },
+  {
+    "id": 15,
+    "nome": "so damn easy going ★★★★½",
+    "ano": 2022,
+    "genero": "comédia"
+  },
+  {
+    "id": 16,
+    "nome": "maja ma ★★★★",
+    "ano": 2022,
+    "genero": "comédia"
+  },
+  {
+    "id": 17,
+    "nome": "the feels ★★½",
+    "ano": 2017,
+    "genero": "comédia"
+  },
+  {
+    "id": 18,
+    "nome": "love, classified ★★★",
+    "ano": 2022,
+    "genero": "comédia"
+  },
+  {
+    "id": 19,
+    "nome": "hearts beat loud ★★★★",
+    "ano": 2018,
+    "genero": "comédia"
+  },
+  {
+    "id": 20,
+    "nome": "badhaai do ★★★★½",
+    "ano": 2022,
+    "genero": "comédia"
+  },
+  {
+    "id": 21,
+    "nome": "nina's heavenly delights ★★★",
+    "ano": 2006,
+    "genero": "comédia"
+  },
+  {
+    "id": 22,
+    "nome": "girltrash: all night long ★★★",
+    "ano": 2014,
+    "genero": "comédia"
+  },
+  {
+    "id": 23,
+    "nome": "battle of the sexes ★★★★",
+    "ano": 2017,
+    "genero": "comédia"
+  },
+  {
+    "id": 24,
+    "nome": "all cheerleaders die ★★★",
+    "ano": 2013,
+    "genero": "comédia"
+  },
+  {
+    "id": 25,
+    "nome": "itty bitty titty committee ★★★",
+    "ano": 2007,
+    "genero": "comédia"
+  },
+  {
+    "id": 26,
+    "nome": "lez bomb ★★★",
+    "ano": 2018,
+    "genero": "comédia"
+  },
+  {
+    "id": 27,
+    "nome": "imagine me & you ★★★★★",
+    "ano": 2005,
+    "genero": "comédia"
+  },
+  {
+    "id": 28,
+    "nome": "yes or no 2.5 ★★",
+    "ano": 2015,
+    "genero": "comédia"
+  },
+  {
+    "id": 29,
+    "nome": "yes or no ★★★★",
+    "ano": 2010,
+    "genero": "comédia"
+  },
+  {
+    "id": 30,
+    "nome": "jenny's wedding ★★★",
+    "ano": 2015,
+    "genero": "comédia"
+  },
+  {
+    "id": 31,
+    "nome": "bottoms ★★★★★",
+    "ano": 2023,
+    "genero": "comédia"
+  },
+  {
+    "id": 32,
+    "nome": "mother-in-law ★★★½",
+    "ano": 2019,
+    "genero": "comédia"
+  },
+  {
+    "id": 33,
+    "nome": "saving face ★★★★½",
+    "ano": 2004,
+    "genero": "comédia"
+  },
+  {
+    "id": 35,
+    "nome": "but i'm a cheerleader ★★★★½",
+    "ano": 1999,
+    "genero": "comédia"
+  },
+  {
+    "id": 36,
+    "nome": "perfect one-night stand ★★★½",
+    "ano": 2020,
+    "genero": "comédia"
+  },
+  {
+    "id": 37,
+    "nome": "booksmart ★★★★",
+    "ano": 2019,
+    "genero": "comédia"
+  },
+  {
+    "id": 38,
+    "nome": "it's a wonderful knife ★★★",
+    "ano": 2023,
+    "genero": "comédia"
+  },
+  {
+    "id": 39,
+    "nome": "better than chocolate ★★★",
+    "ano": 1999,
+    "genero": "comédia"
+  },
+  {
+    "id": 40,
+    "nome": "yes or no 2 ★★★",
+    "ano": 2012,
+    "genero": "comédia"
+  },
+  {
+    "id": 41,
+    "nome": "do revenge ★★★★",
+    "ano": 2022,
+    "genero": "comédia"
+  },
+  {
+    "id": 42,
+    "nome": "crush ★★★★",
+    "ano": 2022,
+    "genero": "comédia"
+  },
+  {
+    "id": 43,
+    "nome": "addicted to fresno ★★",
+    "ano": 2015,
+    "genero": "comédia"
+  },
+  {
+    "id": 44,
+    "nome": "the four-faced liar ★★",
+    "ano": 2010,
+    "genero": "comédia"
+  },
+  {
+    "id": 45,
+    "nome": "a date for mad mary ★★★★",
+    "ano": 2016,
+    "genero": "comédia"
+  },
+  {
+    "id": 46,
+    "nome": "the prom ★★½",
+    "ano": 2020,
+    "genero": "comédia"
+  },
+  {
+    "id": 47,
+    "nome": "the carmilla movie ★★★",
+    "ano": 2017,
+    "genero": "comédia"
+  },
+  {
+    "id": 48,
+    "nome": "shiva baby ★★★★½",
+    "ano": 2020,
+    "genero": "comédia"
+  },
+  {
+    "id": 49,
+    "nome": "the incredibly true adventure of two girls in love ★★★½",
+    "ano": 1995,
+    "genero": "comédia"
+  },
+  {
+    "id": 50,
+    "nome": "show me love ★★★½",
+    "ano": 1998,
+    "genero": "comédia"
+  },
+  {
+    "id": 51,
+    "nome": "exchange student ★★★",
+    "ano": 2019,
+    "genero": "comédia"
+  },
+  {
+    "id": 52,
+    "nome": "how was i conceived? ★★★★½",
+    "ano": 2024,
+    "genero": "comédia"
+  },
+  {
+    "id": 53,
+    "nome": "last exmas ★★½",
+    "ano": 2024,
+    "genero": "comédia"
+  },
+  {
+    "id": 54,
+    "nome": "the holiday club ★★★½",
+    "ano": 2024,
+    "genero": "comédia"
+  },
+  {
+    "id": 55,
+    "nome": "what a feeling ★★★½",
+    "ano": 2024,
+    "genero": "comédia"
+  },
+  {
+    "id": 56,
+    "nome": "the wedding banquet ★★★½",
+    "ano": 2025,
+    "genero": "comédia"
+  },
+  {
+    "id": 57,
+    "nome": "bound ★★★★",
+    "ano": 1996,
+    "genero": "crime"
+  },
+  {
+    "id": 58,
+    "nome": "love lies bleeding ★★★½",
+    "ano": 2024,
+    "genero": "crime"
+  },
+  {
+    "id": 59,
+    "nome": "unlock your heart ★★★★★",
+    "ano": 2021,
+    "genero": "drama"
+  },
+  {
+    "id": 60,
+    "nome": "rara ★★★½",
+    "ano": 2016,
+    "genero": "drama"
+  },
+  {
+    "id": 61,
+    "nome": "ek ladki ko dekha toh aisa laga ★★★★★",
+    "ano": 2019,
+    "genero": "drama"
+  },
+  {
+    "id": 62,
+    "nome": "the handmaiden ★★★★★",
+    "ano": 2016,
+    "genero": "drama"
+  },
+  {
+    "id": 63,
+    "nome": "my first summer ★★★★★",
+    "ano": 2020,
+    "genero": "drama"
+  },
+  {
+    "id": 64,
+    "nome": "love, spells and all that ★★★½",
+    "ano": 2019,
+    "genero": "drama"
+  },
+  {
+    "id": 65,
+    "nome": "rafiki ★★★★",
+    "ano": 2018,
+    "genero": "drama"
+  },
+  {
+    "id": 66,
+    "nome": "my dear yeon ★★★",
+    "ano": 2021,
+    "genero": "drama"
+  },
+  {
+    "id": 67,
+    "nome": "black mirror: san junipero ★★★★★",
+    "ano": 2016,
+    "genero": "drama"
+  },
+  {
+    "id": 68,
+    "nome": "girl picture ★★★★",
+    "ano": 2022,
+    "genero": "drama"
+  },
+  {
+    "id": 69,
+    "nome": "billie & emma ★★★★",
+    "ano": 2018,
+    "genero": "drama"
+  },
+  {
+    "id": 70,
+    "nome": "carol ★★★★½",
+    "ano": 2015,
+    "genero": "drama"
+  },
+  {
+    "id": 71,
+    "nome": "city of trees ★★★",
+    "ano": 2019,
+    "genero": "drama"
+  },
+  {
+    "id": 72,
+    "nome": "fire ★★★★",
+    "ano": 1996,
+    "genero": "drama"
+  },
+  {
+    "id": 73,
+    "nome": "something about us ★★★½",
+    "ano": 2016,
+    "genero": "drama"
+  },
+  {
+    "id": 74,
+    "nome": "when night is falling ★★★½",
+    "ano": 1995,
+    "genero": "drama"
+  },
+  {
+    "id": 75,
+    "nome": "the firefly ★★½",
+    "ano": 2013,
+    "genero": "drama"
+  },
+  {
+    "id": 76,
+    "nome": "with every heartbeat ★★★",
+    "ano": 2011,
+    "genero": "drama"
+  },
+  {
+    "id": 77,
+    "nome": "bloom into you ★★★½",
+    "ano": 2019,
+    "genero": "drama"
+  },
+  {
+    "id": 78,
+    "nome": "talking about ★★★",
+    "ano": 2014,
+    "genero": "drama"
+  },
+  {
+    "id": 79,
+    "nome": "veils ★★★",
+    "ano": 2022,
+    "genero": "drama"
+  },
+  {
+    "id": 80,
+    "nome": "more beautiful for having been broken ★★½",
+    "ano": 2019,
+    "genero": "drama"
+  },
+  {
+    "id": 81,
+    "nome": "rookie ★★★★",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 82,
+    "nome": "carmen & lola ★★★★",
+    "ano": 2018,
+    "genero": "drama"
+  },
+  {
+    "id": 83,
+    "nome": "summerland ★★★★",
+    "ano": 2020,
+    "genero": "drama"
+  },
+  {
+    "id": 84,
+    "nome": "besties ★★★½",
+    "ano": 2021,
+    "genero": "drama"
+  },
+  {
+    "id": 85,
+    "nome": "lucky fish ★★★★",
+    "ano": 2022,
+    "genero": "drama"
+  },
+  {
+    "id": 86,
+    "nome": "gridiron grind ★★★",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 87,
+    "nome": "when time got louder ★★★★½",
+    "ano": 2022,
+    "genero": "drama"
+  },
+  {
+    "id": 88,
+    "nome": "wet sand ★★★★½",
+    "ano": 2021,
+    "genero": "drama"
+  },
+  {
+    "id": 89,
+    "nome": "summer of director oh ★★½",
+    "ano": 2016,
+    "genero": "drama"
+  },
+  {
+    "id": 90,
+    "nome": "who'll stop the rain ★★★",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 91,
+    "nome": "love my life ★★★★",
+    "ano": 2006,
+    "genero": "drama"
+  },
+  {
+    "id": 92,
+    "nome": "strawberry night ★★★½",
+    "ano": 2019,
+    "genero": "drama"
+  },
+  {
+    "id": 93,
+    "nome": "polarized ★★★",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 94,
+    "nome": "pragma ★★★",
+    "ano": 2015,
+    "genero": "drama"
+  },
+  {
+    "id": 95,
+    "nome": "adeline ★★★★",
+    "ano": 2018,
+    "genero": "drama"
+  },
+  {
+    "id": 96,
+    "nome": "don't say sorry ★★★",
+    "ano": 2018,
+    "genero": "drama"
+  },
+  {
+    "id": 97,
+    "nome": "walk with me ★★★★½",
+    "ano": 2021,
+    "genero": "drama"
+  },
+  {
+    "id": 98,
+    "nome": "eyelash ★★★½",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 99,
+    "nome": "fantasy of the girls ★★★",
+    "ano": 2016,
+    "genero": "drama"
+  },
+  {
+    "id": 100,
+    "nome": "camille and i ★★★",
+    "ano": 2020,
+    "genero": "drama"
+  },
+  {
+    "id": 101,
+    "nome": "mr. egotistic ★",
+    "ano": 2018,
+    "genero": "drama"
+  },
+  {
+    "id": 102,
+    "nome": "desert hearts ★★★★½",
+    "ano": 1985,
+    "genero": "drama"
+  },
+  {
+    "id": 103,
+    "nome": "elena undone ★★",
+    "ano": 2010,
+    "genero": "drama"
+  },
+  {
+    "id": 104,
+    "nome": "the beginning & the middle ★★★★",
+    "ano": 2021,
+    "genero": "drama"
+  },
+  {
+    "id": 105,
+    "nome": "a woman like eve ★★★½",
+    "ano": 1979,
+    "genero": "drama"
+  },
+  {
+    "id": 106,
+    "nome": "the charm of a beast ★★★",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 107,
+    "nome": "i can't think straight ★★★",
+    "ano": 2008,
+    "genero": "drama"
+  },
+  {
+    "id": 108,
+    "nome": "indecent ★★★★★",
+    "ano": 2017,
+    "genero": "drama"
+  },
+  {
+    "id": 109,
+    "nome": "woman coming out of the sea ★★★",
+    "ano": 2018,
+    "genero": "drama"
+  },
+  {
+    "id": 110,
+    "nome": "the others ★★★★½",
+    "ano": 1969,
+    "genero": "drama"
+  },
+  {
+    "id": 111,
+    "nome": "drifting flowers ★★★½",
+    "ano": 2008,
+    "genero": "drama"
+  },
+  {
+    "id": 112,
+    "nome": "my heart beats for you ★★½",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 113,
+    "nome": "journey ★★★★",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 114,
+    "nome": "when the tide rises ★★★",
+    "ano": 2021,
+    "genero": "drama"
+  },
+  {
+    "id": 115,
+    "nome": "until today ★★★",
+    "ano": 2024,
+    "genero": "drama"
+  },
+  {
+    "id": 116,
+    "nome": "nova & alice ★★★★",
+    "ano": 2024,
+    "genero": "drama"
+  },
+  {
+    "id": 117,
+    "nome": "the night ★★★",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 118,
+    "nome": "concerning my daughter ★★★½",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 119,
+    "nome": "my mother's girlfriend ★★★★★",
+    "ano": 2021,
+    "genero": "drama"
+  },
+  {
+    "id": 120,
+    "nome": "the five devils ★★★½",
+    "ano": 2022,
+    "genero": "drama"
+  },
+  {
+    "id": 121,
+    "nome": "where colours come from ★★★½",
+    "ano": 2023,
+    "genero": "drama"
+  },
+  {
+    "id": 122,
+    "nome": "fear street: 1978 ★★★★½",
+    "ano": 2021,
+    "genero": "terror"
+  },
+  {
+    "id": 123,
+    "nome": "the retreat ★★★½",
+    "ano": 2021,
+    "genero": "terror"
+  },
+  {
+    "id": 124,
+    "nome": "fear street: 1666 ★★★★★",
+    "ano": 2021,
+    "genero": "terror"
+  },
+  {
+    "id": 125,
+    "nome": "attachment ★★★",
+    "ano": 2022,
+    "genero": "terror"
+  },
+  {
+    "id": 126,
+    "nome": "fear street: 1994 ★★★★½",
+    "ano": 2021,
+    "genero": "terror"
+  },
+  {
+    "id": 127,
+    "nome": "sick girl ★★★½",
+    "ano": 2006,
+    "genero": "terror"
+  },
+  {
+    "id": 128,
+    "nome": "mom, if i were a vampire ★★★★",
+    "ano": 2022,
+    "genero": "terror"
+  },
+  {
+    "id": 129,
+    "nome": "tugtog ★★★½",
+    "ano": 2024,
+    "genero": "música"
+  },
+  {
+    "id": 130,
+    "nome": "anaïs in love ★★★★",
+    "ano": 2021,
+    "genero": "romance"
+  },
+  {
+    "id": 131,
+    "nome": "shall we dance ★★★",
+    "ano": 2019,
+    "genero": "romance"
+  },
+  {
+    "id": 132,
+    "nome": "until rainbow dawn ★★★★",
+    "ano": 2018,
+    "genero": "romance"
+  },
+  {
+    "id": 133,
+    "nome": "momo ★★★★",
+    "ano": 2016,
+    "genero": "romance"
+  },
+  {
+    "id": 134,
+    "nome": "wedding ★★★½",
+    "ano": 2023,
+    "genero": "romance"
+  },
+  {
+    "id": 135,
+    "nome": "the caged canary ★★★",
+    "ano": 2023,
+    "genero": "romance"
+  },
+  {
+    "id": 136,
+    "nome": "kiss me through the window ★★★",
+    "ano": 2020,
+    "genero": "romance"
+  },
+  {
+    "id": 137,
+    "nome": "floating deep down summer ★★★★",
+    "ano": 2020,
+    "genero": "romance"
+  },
+  {
+    "id": 138,
+    "nome": "beguine ★★★",
+    "ano": 2018,
+    "genero": "romance"
+  },
+  {
+    "id": 139,
+    "nome": "truth or dare ★★★",
+    "ano": 2020,
+    "genero": "romance"
+  },
+  {
+    "id": 140,
+    "nome": "chalna: enough time to fall in love ★★★½",
+    "ano": 2019,
+    "genero": "romance"
+  },
+  {
+    "id": 141,
+    "nome": "en dehors de toi ★★★★½",
+    "ano": 2022,
+    "genero": "romance"
+  },
+  {
+    "id": 142,
+    "nome": "see you soon ★★★★½",
+    "ano": 2025,
+    "genero": "romance"
+  },
+  {
+    "id": 143,
+    "nome": "how do i kill that b? ★★★★½",
+    "ano": 2021,
+    "genero": "thriller"
+  }
+]
