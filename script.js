@@ -63,10 +63,3 @@ document.getElementById('btnSortear')?.addEventListener('click', () => {
 });
 
 carregarFilmes();
-
-// document.getElementById('btnLimparAssistidos').addEventListener('click', () => {
-//   localStorage.removeItem('assistidos');
-//   alert('lista de filmes assistidos foi limpa!');
-//   const resultado = document.getElementById('resultadoSorteio');
-//   if (resultado) resultado.innerHTML = "";
-// });
