@@ -56,7 +56,7 @@ body {
   left: clamp(50px, 20%, 183px); 
   top: clamp(186px, 10%, 180px);   
 
-  width: clamp(210px, 17em, 355px); 
+  width: 355px; 
   height: auto;
   box-sizing: border-box;  
 }
@@ -78,7 +78,7 @@ body {
   left: clamp(50px, 20%, 183px); 
   top: clamp(186px, 10%, 180px);   
 
-  width: clamp(200px, 17em, 355px);  
+  width: 355px;   
   height: clamp(6px, 4em, 42px);    
   box-sizing: border-box;  
 }
