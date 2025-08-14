@@ -49,7 +49,7 @@ body {
   font-weight: bold;
   background-color: #FFFFFF;
   font-size: clamp(14px, 2vw, 20px);
-  color: #e883aa;;
+  color: #e883aa;
   padding: 1rem; 
   
   position: absolute;
@@ -122,4 +122,5 @@ body {
   justify-content: flex-start;     
   width: 100%;           
   margin-top: 40px;      
+
 }
