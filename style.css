@@ -2,38 +2,83 @@ body {
     font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: #e883aa;
 }
 
-header {
-    background: #90bf93;
-    color: #fff;
-    padding: 1rem;
-    text-align: center;
+body {
+  margin: 0; 
+  height: 100vh; 
+  background-image: url('imagens/background.png'); 
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-nav a {
-    color: #fff;
-    margin: 0 15px;
-    text-decoration: none;
+.container {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
 }
 
-nav a:hover {
-    text-decoration: underline;
+.box1 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #90BF93;
+  border-radius: 15px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  color: #FFFFFF;
+  font-size: clamp(14px, 2vw, 34px); 
+  padding-left: 1rem;
+
+  position: absolute;
+  left: clamp(50px, 20%, 183px); 
+  top: clamp(68px, 10%, 52px);  
+
+  width: clamp(200px, 17em, 345px);  
+  height: clamp(40px, 4em, 76px);   
 }
 
-main {
-    background: #ffffff;
-    padding: 20px;
+/* botões */
+.box2 {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 15px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  background-color: #FFFFFF;
+  font-size: clamp(14px, 2vw, 20px);
+  color: #e883aa;;
+  padding: 1rem; 
+  
+  position: absolute;
+  left: clamp(50px, 20%, 183px); 
+  top: clamp(186px, 10%, 180px);   
+
+  width: clamp(210px, 17em, 355px); 
+  height: auto;
 }
 
-footer {
-    background: #e883aa;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+/* título */
+.box3 { 
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 15px 15px 0px 0px;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  background-color: #90BF93;
+  color: #FFFFFF;
+  font-size: clamp(14px, 2vw, 24px);
+  padding-left: 1rem;
+
+  position: absolute;
+  left: clamp(50px, 20%, 183px); 
+  top: clamp(186px, 10%, 180px);   
+
+  width: clamp(200px, 17em, 355px);  
+  height: clamp(6px, 4em, 42px);    
 }
 
 .button-1 {
@@ -68,22 +113,11 @@ footer {
   background-color: #ee6197;
 }
 
-.button-1 {
-  margin: 5px;
-}
-
-h2 {
-  color: #e883aa;
-}
-
-h3 {
-  color: #e883aa;
-}
-
-#sorteio-filmes {
-  text-align: center;
-}
-
-#botoes-generos button {
-  margin: 5px;
+#botoes-generos {
+  display: flex;       
+  flex-wrap: wrap;        
+  gap: 5px;       
+  justify-content: flex-start;     
+  width: 100%;           
+  margin-top: 40px;      
 }
