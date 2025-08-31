@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <title>página inicial</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1></h1>
+    <nav>
+    </nav>
+  </header>
+
+  <main></main>
+
+  <footer>
+    <p></p>
+  </footer>
+
+  <div class="container">
+    <div class="box1">site dela</div>
+
+    <div class="box2">
+      <section id="sorteio-filmes">
+        <h3>sorteador de filmes</h3>
+        <p>escolha o gênero que quer assistir:</p>
+
+        <div id="botoes-generos"></div>
+        <div id="resultadoSorteio"></div>
+      </section>
+    </div>
+
+    <div class="box3">
+      <section id="gymrats">
+        <h3>alongamentinho</h3>
+        <p>clique quando fizer o alongamento de hoje:</p>
+
+        <div class="botoes-gym">
+            <button class="button-1" onclick="registrar('beatriz')">beatriz</button>
+            <button class="button-1" onclick="registrar('carla')">carla</button>
+            <button class="button-1" onclick="apagarUltimo()">apagar último registro</button>
+        </div>
+
+        <div class="total" id="totais"></div>
+
+        <h4 id="titulo-historico" style="display:none">histórico:</h4>
+        <ul id="historico"></ul>
+      </section>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

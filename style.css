@@ -1,0 +1,102 @@
+body {
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0; 
+  background-image: url('imagens/background.png'); 
+  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px; 
+  margin: 50px;
+}
+
+.box1, .box2, .box3 {
+  width: 254px;
+  padding: 1rem;
+  border-radius: 15px;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+  font-size: clamp(14px, 2vw, 18px); 
+  align-items: center;
+  justify-content: flex-start;
+}
+
+/* site dela */
+.box1 {
+
+  background-color: #90BF93;
+  font-weight: bold;
+  color: #FFFFFF;
+}
+
+/* sorteador de filmes */
+.box2 {
+  background-color: #FFFFFF;
+  color: #e883aa;
+}
+
+/* alongamentinho */
+
+.box3 {
+  background-color: #fff;
+  color: #e883aa;
+}
+
+#gymrats .total {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+#gymrats ul {
+  padding-left: 20px;
+  margin-top: 5px;
+  max-height: 69px;
+  overflow-y: auto;
+}
+
+.button-1 {
+  background-color: #e883aa;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-1:hover,.button-1:focus {
+  background-color: #ee6197;
+}
+
+#botoes-generos, .botoes-gym {
+  display: flex;       
+  flex-wrap: wrap;        
+  gap: 5px;       
+  justify-content: flex-start;     
+  width: 100%;           
+  margin-top: 10px;      
+}
